@@ -1,7 +1,7 @@
 # Assignment: Exploring Java Concepts
 
 The following project contains all
-four parts of the "Exploring Java Concepts"
+five parts of the "Exploring Java Concepts"
 assignment, each of which is implemented
 in a separate class with the format
 "Part _[number]_ " (e.g. "Part1" for part 1).
